@@ -11,6 +11,7 @@ public class Camcorder extends Item{
 		return opticalZoom;
 	}
 	
+	
 	public String toString(){
 	    String output = super.toString();
 	    // Write your codes here
